@@ -7,7 +7,7 @@
 
 ## 2. 技术架构
 - **区块链类型**：由于全链游戏需要大量链上操作，对延迟和成本比较敏感，目前部署在 lattice 的测试链上，兼容所有 EVM 链
-- **技术框架**： Solidity, React, MUD
+- **技术框架**： Solidity, React, MUD, ChatGPT
 
 ## 3. 游戏玩法
 
@@ -15,6 +15,7 @@
 
 ## 3. 团队成员
 
- - jiang
- - Eggy
- - Adria
+ - jiang / 5 小时速成的全链游戏开发者/ 程序开发
+ - 鸡蛋 / 水母田打工仔 /视觉设计
+ - Adria / 叙事与 PPT
+ - Xiyu / Vibe Giver
